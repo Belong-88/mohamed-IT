@@ -1,0 +1,11 @@
+# Network Monitoring Project
+This Pyhton Script monitors devices on a network and checks the internet speed.
+
+## Features 
+- Ping devices to check if thay are online
+- Monitor internet speed
+- send email alerts when a device is offline or internet speed is low
+
+- ## How to use
+- Edit script to add your own email and device ip addesses
+- Run the script on your Raspberry pi or any Linux device 
